@@ -1,16 +1,16 @@
-# SubMarine-Pizzeria
+# Dino's Pizzeria
 
 ```
-SubMarine-Pizzeria, with a frontend built in React & Redux and a backend built in Django API.
+Dino's Pizzeria, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ## Live Demo
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-sd-alisha.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-DinosPizzeria.jenniferdelacuz.repl.co) here!!
 
-Check out [API LIVE DEMO](https://backend-sd-alisha.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-Dinospizzeria.jenniferdelacuz.repl.co) here!!
 
 ## Tech used
 
